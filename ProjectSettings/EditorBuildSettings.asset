@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Sign-up.unity
+    guid: 48cd97b844023484b9812260313f0151
+  - enabled: 1
+    path: Assets/Scenes/Entering/Entering1.unity
+    guid: 695a61348099dff4e919d6bd31a4e783
+  - enabled: 1
+    path: Assets/Scenes/Entering/Entering2.unity
+    guid: 27fe287e8af154346b9cf3ef2c110796
+  - enabled: 1
+    path: Assets/Scenes/Entering/Entering3.unity
+    guid: db281505f4d68e349947951f2788dd36
+  - enabled: 1
+    path: Assets/Scenes/Entering/Entering4.unity
+    guid: 78524aa42e752e14199fe4d76eb0d7d5
+  - enabled: 1
+    path: Assets/Scenes/User/BaseUserScene.unity
+    guid: 12f2d7e1f6d61fd419ab1386f0571fb0
+  - enabled: 1
+    path: Assets/Scenes/User/Friends.unity
+    guid: 57cb4ada960a6d3418449c730a83ff6d
+  - enabled: 0
+    path: Assets/Scenes/Menu/Menu.unity
+    guid: fc9d45121be426c4f8a95f61fffd9076
+  - enabled: 1
+    path: Assets/Scenes/Menu/MainMenu.unity
+    guid: 3585939b3ae6314488cb472d02d1e261
+  - enabled: 0
+    path: Assets/Scenes/Menu/ScrollMenu.unity
+    guid: 35b7a9c85d26bde408ebcec0a53f7d64
+  m_configObjects: {}

@@ -1,0 +1,701 @@
+{
+  "info": {
+    "version": "0.6.1"
+  },
+  "root": {
+    "type": "Group",
+    "name": "Samsung Galaxy S10 – 359",
+    "elements": [
+      {
+        "type": "Image",
+        "name": "Get Started",
+        "guid": "319601e1-1e99-4052-acdd-d3a05b2a4725",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 5807,
+          "y": 17539,
+          "width": 90,
+          "height": 24,
+          "ex": 5897,
+          "ey": 17563,
+          "text": {
+            "fontSize": 18
+          }
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.4861111111111111,
+            "y": 0.06315789473684208
+          },
+          "anchor_max": {
+            "x": 0.4861111111111111,
+            "y": 0.06315789473684208
+          },
+          "offset_min": {
+            "x": -45,
+            "y": -12
+          },
+          "offset_max": {
+            "x": 45,
+            "y": 12
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "GetStarted"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Get Started+31960"
+        }
+      },
+      {
+        "type": "Image",
+        "name": "Rectangle 5002",
+        "guid": "2e57b0af-0d5f-4f2f-86aa-3278d7d267a2",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 5747,
+          "y": 17526,
+          "width": 221,
+          "height": 58,
+          "ex": 5968,
+          "ey": 17584
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5013888888888889,
+            "y": 0.05789473684210528
+          },
+          "anchor_max": {
+            "x": 0.5013888888888889,
+            "y": 0.05789473684210528
+          },
+          "offset_min": {
+            "x": -110.5,
+            "y": -29
+          },
+          "offset_max": {
+            "x": 110.5,
+            "y": 29
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Rectangle5002"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Rectangle 5002+2e57b"
+        }
+      },
+      {
+        "type": "Image",
+        "name": "Moderate students progress",
+        "guid": "ee1622f6-1e95-4285-999d-5224303827c6",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 5731,
+          "y": 17446,
+          "width": 211,
+          "height": 24,
+          "ex": 5942,
+          "ey": 17470,
+          "text": {
+            "fontSize": 18
+          }
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.44305555555555554,
+            "y": 0.1855263157894737
+          },
+          "anchor_max": {
+            "x": 0.44305555555555554,
+            "y": 0.1855263157894737
+          },
+          "offset_min": {
+            "x": -105.5,
+            "y": -12
+          },
+          "offset_max": {
+            "x": 105.5,
+            "y": 12
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Moderatestudentsprogress"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Moderate students pr+ee162"
+        }
+      },
+      {
+        "type": "Image",
+        "name": "Edit students groups",
+        "guid": "dccb821c-1381-444c-b036-887907743f81",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 5755,
+          "y": 17412,
+          "width": 154,
+          "height": 24,
+          "ex": 5909,
+          "ey": 17436,
+          "text": {
+            "fontSize": 18
+          }
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.4305555555555556,
+            "y": 0.23026315789473684
+          },
+          "anchor_max": {
+            "x": 0.4305555555555556,
+            "y": 0.23026315789473684
+          },
+          "offset_min": {
+            "x": -77,
+            "y": -12
+          },
+          "offset_max": {
+            "x": 77,
+            "y": 12
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Editstudentsgroups"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Edit students groups+dccb8"
+        }
+      },
+      {
+        "type": "Image",
+        "name": "Add new courses",
+        "guid": "e35fa38c-7979-4b1f-a1c5-7f1f36b6d8c1",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 5774,
+          "y": 17378,
+          "width": 130,
+          "height": 24,
+          "ex": 5904,
+          "ey": 17402,
+          "text": {
+            "fontSize": 18
+          }
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.45,
+            "y": 0.275
+          },
+          "anchor_max": {
+            "x": 0.45,
+            "y": 0.275
+          },
+          "offset_min": {
+            "x": -65,
+            "y": -12
+          },
+          "offset_max": {
+            "x": 65,
+            "y": 12
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Addnewcourses"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Add new courses+e35fa"
+        }
+      },
+      {
+        "type": "Image",
+        "name": "Benefits",
+        "guid": "3dac39e9-82e8-4be6-baeb-7e2a6a29d068",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 5811,
+          "y": 17317,
+          "width": 72,
+          "height": 30,
+          "ex": 5883,
+          "ey": 17347,
+          "text": {
+            "fontSize": 22
+          }
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.4722222222222222,
+            "y": 0.35131578947368425
+          },
+          "anchor_max": {
+            "x": 0.4722222222222222,
+            "y": 0.35131578947368425
+          },
+          "offset_min": {
+            "x": -36,
+            "y": -15
+          },
+          "offset_max": {
+            "x": 36,
+            "y": 15
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Benefits"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Benefits+3dac3"
+        }
+      },
+      {
+        "type": "Image",
+        "name": "Path 16600",
+        "guid": "25df77e0-6f74-4162-a591-cb06e794a1ad",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 5586.810546875,
+          "y": 17344.5,
+          "width": 541.341796875,
+          "height": 541.341796875,
+          "ex": 6128.15234375,
+          "ey": 17885.841796875
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5013373480902777,
+            "y": -0.02127749794407896
+          },
+          "anchor_max": {
+            "x": 0.5013373480902777,
+            "y": -0.02127749794407896
+          },
+          "offset_min": {
+            "x": -270.6708984375,
+            "y": -270.6708984375
+          },
+          "offset_max": {
+            "x": 270.6708984375,
+            "y": 270.6708984375
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Path16600"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Path 16600+25df7"
+        }
+      },
+      {
+        "type": "Image",
+        "name": "Path 15387",
+        "guid": "fa2b2ea2-8d3c-4cb4-97d3-313b7c8d5792",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 5635,
+          "y": 17299.689453125,
+          "width": 444.962890625,
+          "height": 444.962890625,
+          "ex": 6079.962890625,
+          "ey": 17744.65234375
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5013373480902777,
+            "y": 0.10109092310855261
+          },
+          "anchor_max": {
+            "x": 0.5013373480902777,
+            "y": 0.10109092310855261
+          },
+          "offset_min": {
+            "x": -222.4814453125,
+            "y": -222.4814453125
+          },
+          "offset_max": {
+            "x": 222.4814453125,
+            "y": 222.4814453125
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Path15387"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Path 15387+fa2b2"
+        }
+      },
+      {
+        "type": "Image",
+        "name": "Teacher",
+        "guid": "7bfa04cc-f370-4d54-a099-e93032c5d47c",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 5815,
+          "y": 17232,
+          "width": 70,
+          "height": 30,
+          "ex": 5885,
+          "ey": 17262,
+          "text": {
+            "fontSize": 22
+          }
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.48055555555555557,
+            "y": 0.4631578947368421
+          },
+          "anchor_max": {
+            "x": 0.48055555555555557,
+            "y": 0.4631578947368421
+          },
+          "offset_min": {
+            "x": -35,
+            "y": -15
+          },
+          "offset_max": {
+            "x": 35,
+            "y": 15
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Teacher"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Teacher+7bfa0"
+        }
+      },
+      {
+        "type": "Image",
+        "name": "Ellipse 1442",
+        "guid": "6e5731c8-9464-486f-9299-318c669dd51b",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 5693,
+          "y": 17124,
+          "width": 70,
+          "height": 70,
+          "ex": 5763,
+          "ey": 17194
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.14166666666666666,
+            "y": 0.5789473684210527
+          },
+          "anchor_max": {
+            "x": 0.14166666666666666,
+            "y": 0.5789473684210527
+          },
+          "offset_min": {
+            "x": -35,
+            "y": -35
+          },
+          "offset_max": {
+            "x": 35,
+            "y": 35
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Ellipse1442"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Ellipse 1442+6e573"
+        }
+      },
+      {
+        "type": "Image",
+        "name": "Ellipse 1441",
+        "guid": "cfb30c99-4cb8-4616-9187-e60d1844d5af",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 5797,
+          "y": 17099,
+          "width": 120,
+          "height": 120,
+          "ex": 5917,
+          "ey": 17219
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5,
+            "y": 0.5789473684210527
+          },
+          "anchor_max": {
+            "x": 0.5,
+            "y": 0.5789473684210527
+          },
+          "offset_min": {
+            "x": -60,
+            "y": -60
+          },
+          "offset_max": {
+            "x": 60,
+            "y": 60
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Ellipse1441"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Ellipse 1441+cfb30"
+        }
+      },
+      {
+        "type": "Image",
+        "name": "SELECT USER TYPE",
+        "guid": "8d314f7f-faa9-45ad-bdc5-cf20a197c43f",
+        "active": true,
+        "global_draw_bounds": {
+          "x": 5773,
+          "y": 17018,
+          "width": 175,
+          "height": 30,
+          "ex": 5948,
+          "ey": 17048,
+          "text": {
+            "fontSize": 22
+          }
+        },
+        "rect_transform": {
+          "fix": {
+            "left": null,
+            "right": null,
+            "top": null,
+            "bottom": null,
+            "width": null,
+            "height": null
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0.5097222222222222,
+            "y": 0.7447368421052631
+          },
+          "anchor_max": {
+            "x": 0.5097222222222222,
+            "y": 0.7447368421052631
+          },
+          "offset_min": {
+            "x": -87.5,
+            "y": -15
+          },
+          "offset_max": {
+            "x": 87.5,
+            "y": 15
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "SELECTUSERTYPE"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "SELECT USER TYPE+8d314"
+        }
+      }
+    ],
+    "guid": "c3d379fb-69b6-4f67-8fd6-ccd1c530685f",
+    "active": true,
+    "global_draw_bounds": {
+      "x": 5677,
+      "y": 16839,
+      "width": 360,
+      "height": 760,
+      "ex": 6037,
+      "ey": 17599
+    },
+    "rect_transform": {
+      "fix": {
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null,
+        "width": null,
+        "height": null
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_min": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_max": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "offset_min": {
+        "x": -180,
+        "y": -380
+      },
+      "offset_max": {
+        "x": 180,
+        "y": 380
+      }
+    },
+    "layer": "UI",
+    "parsed_names": [
+      "SamsungGalaxyS10_359"
+    ],
+    "fill_color": "#ffffff"
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "info": {
+    "version": "0.6.1"
+  },
+  "root": {
+    "type": "Group",
+    "name": "Group 318",
+    "elements": [
+      {
+        "type": "Image",
+        "name": "Line 9",
+        "guid": "76df6d13-392d-470c-9475-03a55570c37f",
+        "active": true,
+        "global_draw_bounds": {
+          "x": -8416.2705078125,
+          "y": -779.54638671875,
+          "width": 20,
+          "height": 2,
+          "ex": -8396.2705078125,
+          "ey": -777.54638671875
+        },
+        "rect_transform": {
+          "fix": {
+            "left": true,
+            "right": true,
+            "top": 0.8566679497497988,
+            "bottom": true,
+            "width": false,
+            "height": true
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0
+          },
+          "anchor_min": {
+            "x": 0,
+            "y": 0
+          },
+          "anchor_max": {
+            "x": 1,
+            "y": 0
+          },
+          "offset_min": {
+            "x": 0,
+            "y": 0
+          },
+          "offset_max": {
+            "x": 0,
+            "y": 2
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Line9"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Line 9+76df6"
+        }
+      },
+      {
+        "type": "Image",
+        "name": "Line 8",
+        "guid": "e3056489-92a5-4f92-a66f-06ff58893e26",
+        "active": true,
+        "global_draw_bounds": {
+          "x": -8416.2705078125,
+          "y": -785.523193359375,
+          "width": 20,
+          "height": 2,
+          "ex": -8396.2705078125,
+          "ey": -783.523193359375
+        },
+        "rect_transform": {
+          "fix": {
+            "left": true,
+            "right": true,
+            "top": 0.4283339748748994,
+            "bottom": 0.4283339748748994,
+            "width": false,
+            "height": true
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "anchor_min": {
+            "x": 0,
+            "y": 0.5
+          },
+          "anchor_max": {
+            "x": 1,
+            "y": 0.5
+          },
+          "offset_min": {
+            "x": 0,
+            "y": -1
+          },
+          "offset_max": {
+            "x": 0,
+            "y": 1
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Line8"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Line 8+e3056"
+        }
+      },
+      {
+        "type": "Image",
+        "name": "Line 7",
+        "guid": "81b2b38e-4462-4fd1-8959-94d0b373275f",
+        "active": true,
+        "global_draw_bounds": {
+          "x": -8416.2705078125,
+          "y": -791.5,
+          "width": 20,
+          "height": 2,
+          "ex": -8396.2705078125,
+          "ey": -789.5
+        },
+        "rect_transform": {
+          "fix": {
+            "left": true,
+            "right": true,
+            "top": true,
+            "bottom": 0.8566679497497988,
+            "width": false,
+            "height": true
+          },
+          "pivot": {
+            "x": 0.5,
+            "y": 1
+          },
+          "anchor_min": {
+            "x": 0,
+            "y": 1
+          },
+          "anchor_max": {
+            "x": 1,
+            "y": 1
+          },
+          "offset_min": {
+            "x": 0,
+            "y": -2
+          },
+          "offset_max": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "layer": "UI",
+        "parsed_names": [
+          "Line7"
+        ],
+        "opacity": 100,
+        "image": {
+          "source_image": "Line 7+81b2b"
+        }
+      }
+    ],
+    "guid": "a823ee1b-aa28-419a-8b83-dc4a97aec319",
+    "active": true,
+    "global_draw_bounds": {
+      "x": -8416.2705078125,
+      "y": -791.5,
+      "width": 20,
+      "height": 13.95361328125,
+      "ex": -8396.2705078125,
+      "ey": -777.54638671875
+    },
+    "rect_transform": {
+      "fix": {
+        "left": null,
+        "right": null,
+        "top": null,
+        "bottom": null,
+        "width": null,
+        "height": null
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "anchor_min": {
+        "x": 0.06869303385416664,
+        "y": 0.9480568333675987
+      },
+      "anchor_max": {
+        "x": 0.06869303385416664,
+        "y": 0.9480568333675987
+      },
+      "offset_min": {
+        "x": -10,
+        "y": -6.976806640625
+      },
+      "offset_max": {
+        "x": 10,
+        "y": 6.976806640625
+      }
+    },
+    "layer": "UI",
+    "parsed_names": [
+      "Group318"
+    ]
+  }
+}

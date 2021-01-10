@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 4827e0ab673c4e848b802e2795e432c4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Seb Neue
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 37d856e48e58658438b25378fe618df5, type: 3}
+  - {fileID: 12800000, guid: 9789f3d6ee5c48e4dbecce260e9f9e5e, type: 3}
+  - {fileID: 12800000, guid: e3915d1a8b015e848b3a85c1c9fd5170, type: 3}
+  - {fileID: 12800000, guid: 85b2a4ace8b09e34c957249b25e72dfb, type: 3}
+  - {fileID: 12800000, guid: c660c64fc9c5e3344aa63fa473fdd396, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
